@@ -32,6 +32,20 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ggrob8/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+# learning-journal
+
+# 102-Learning-Journal
+
+**Hi, my name is Rob.**
+
+
+- Here is an example of a table of contents for a learning journal. 
+
+Table of Contents
+- [Markdown Examples from Class One - 102](/MarkdownExamples.md)
+- [Markdown Examples from Class Two - 102](/MarkdownExamples.md)
+- [Markdown Examples from Class Three - 102](/MarkdownExamples.md)
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
