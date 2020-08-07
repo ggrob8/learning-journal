@@ -1,5 +1,7 @@
 # Markdown Examples
 
+- [Go to READ.ME](/README.md)
+
 ## This is some practice markdown
 
 
